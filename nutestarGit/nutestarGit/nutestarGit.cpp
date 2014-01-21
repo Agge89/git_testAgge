@@ -7,7 +7,7 @@ using namespace std;
 
 int main(int argc, char* argv[])
 {
-	cout << "hejsan" << endl;
+	cout << "hejsan nu heter jag Agge" << endl;
 	cin.get();
 	return 0;
 }
