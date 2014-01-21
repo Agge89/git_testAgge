@@ -2,10 +2,13 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
+using namespace std;
 
-
-int _tmain(int argc, _TCHAR* argv[])
+int main(int argc, char* argv[])
 {
+	cout << "hejsan" << endl;
+	cin.get();
 	return 0;
 }
 
